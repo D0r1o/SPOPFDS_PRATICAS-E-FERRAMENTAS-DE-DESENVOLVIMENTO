@@ -1,0 +1,7 @@
+1. Python (ms-python.python) - Suporte completo para Python.
+2. Pylance (ms-python.vscode-pylance) - IntelliSense para Python.
+3. Black Formatter (ms-python.black-formatter) - Formatador de código Python.
+4. C/C++ (ms-vscode.cpptools) - Suporte essencial para C.
+5. C/C++ Extension Pack (ms-vscode.cpptools-extension-pack) - Ferramentas para C/C++.
+6. Code Runner (formulahendry.code-runner) - Executa C e Python no terminal.
+7. vscode-icons (vscodeicons.vscode-icons) - Ícones visuais de arquivos.
